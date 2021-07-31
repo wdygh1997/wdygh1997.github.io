@@ -1,0 +1,1 @@
+document.writeln("<center>Copyright © 2020 萬艼芋, Powered by Github Pages</center>");
