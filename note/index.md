@@ -24,7 +24,7 @@ title: 笔记
 
 > &emsp;&emsp;算法思想
 >
-> &emsp;&emsp;&emsp;&emsp;枚举&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/150003">note/202102/150003</a>）
+> &emsp;&emsp;&emsp;&emsp;枚举&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/150003">note/202103/150003</a>）
 >
 > &emsp;&emsp;&emsp;&emsp;分治&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/290001">note/202103/290001</a>）
 > 
@@ -54,7 +54,7 @@ title: 笔记
 >
 > &emsp;&emsp;&emsp;&emsp;宽度优先搜索&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/150002">note/202103/150002</a>）
 >
-> &emsp;&emsp;最解算法
+> &emsp;&emsp;最值算法
 > 
 > &emsp;&emsp;&emsp;&emsp;贪心
 >
@@ -62,16 +62,8 @@ title: 笔记
 > 
 > &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;线性动态规划&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/070001">note/202108/070001</a>）
 > 
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;背包问题
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;背包问题&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/240001">note/202103/240001</a>）
 > 
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0/1背包&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/240001">note/202103/240001</a>）
-> 
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;完全背包&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/240002">note/202103/240002</a>）
-> 
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;多重背包&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/250001">note/202103/250001</a>）
-> 
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;分组背包&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/250002">note/202103/250002</a>）
->
 > &emsp;&emsp;数据结构
 > 
 > &emsp;&emsp;&emsp;&emsp;链表
