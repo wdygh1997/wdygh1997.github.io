@@ -60,6 +60,8 @@ title: 笔记
 > 
 > &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;背包问题&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/240001">note/202103/240001</a>）
 > 
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;区间动态规划&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/120002">note/202108/120002</a>）
+> 
 > &emsp;&emsp;数据结构
 > 
 > &emsp;&emsp;&emsp;&emsp;链表
