@@ -44,11 +44,7 @@ title: 笔记
 >
 > &emsp;&emsp;查找算法
 >
-> &emsp;&emsp;&emsp;&emsp;二分
->
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;整数二分&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202102/170003">note/202102/170003</a>）
->
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;浮点数二分&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202102/170004">note/202102/170004</a>）
+> &emsp;&emsp;&emsp;&emsp;二分&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202102/170003">note/202102/170003</a>）
 >
 > &emsp;&emsp;&emsp;&emsp;深度优先搜索&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/150001">note/202103/150001</a>）
 >
@@ -56,7 +52,7 @@ title: 笔记
 >
 > &emsp;&emsp;最值算法
 > 
-> &emsp;&emsp;&emsp;&emsp;贪心
+> &emsp;&emsp;&emsp;&emsp;贪心&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/120001">note/202108/120001</a>）
 >
 > &emsp;&emsp;&emsp;&emsp;动态规划
 > 
