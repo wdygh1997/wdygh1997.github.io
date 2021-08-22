@@ -56,11 +56,15 @@ title: 笔记
 >
 > &emsp;&emsp;&emsp;&emsp;动态规划
 > 
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;线性动态规划&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/070001">note/202108/070001</a>）
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;dp的原理与实现&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/070001">note/202108/070001</a>）
+> 
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;序列问题&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/210001">note/202108/210001</a>）
 > 
 > &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;背包问题&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/240001">note/202103/240001</a>）
 > 
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;区间动态规划&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/120002">note/202108/120002</a>）
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;区间dp&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/120002">note/202108/120002</a>）
+> 
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;树型dp&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/220001">note/202108/220001</a>）
 > 
 > &emsp;&emsp;数据结构
 > 
