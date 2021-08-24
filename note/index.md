@@ -50,21 +50,19 @@ title: 笔记
 >
 > &emsp;&emsp;&emsp;&emsp;宽度优先搜索&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/150002">note/202103/150002</a>）
 >
-> &emsp;&emsp;最值算法
-> 
-> &emsp;&emsp;&emsp;&emsp;贪心&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/120001">note/202108/120001</a>）
+> &emsp;&emsp;贪心算法&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/120001">note/202108/120001</a>）
 >
-> &emsp;&emsp;&emsp;&emsp;动态规划
+> &emsp;&emsp;动态规划
 > 
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;dp的原理与实现&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/070001">note/202108/070001</a>）
+> &emsp;&emsp;&emsp;&emsp;dp的原理与实现&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/070001">note/202108/070001</a>）
 > 
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;线性dp&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/210001">note/202108/210001</a>）
+> &emsp;&emsp;&emsp;&emsp;线性dp&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/210001">note/202108/210001</a>）
 > 
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;背包问题&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/240001">note/202103/240001</a>）
+> &emsp;&emsp;&emsp;&emsp;背包问题&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/240001">note/202103/240001</a>）
 > 
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;区间dp&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/120002">note/202108/120002</a>）
+> &emsp;&emsp;&emsp;&emsp;区间dp&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/120002">note/202108/120002</a>）
 > 
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;树型dp&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/220001">note/202108/220001</a>）
+> &emsp;&emsp;&emsp;&emsp;树型dp&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/220001">note/202108/220001</a>）
 > 
 > &emsp;&emsp;数据结构
 > 
