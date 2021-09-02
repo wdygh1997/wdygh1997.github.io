@@ -24,6 +24,8 @@ title: 博客
 
 > &emsp;&emsp;C++生态与框架
 > 
+> &emsp;&emsp;&emsp;&emsp;程序设计算法常用C/C++标准库&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202109/020001">blog/202109/020001</a>）&emsp;&emsp;（2021/09/02）
+>
 > &emsp;&emsp;Python生态与框架
 > 
 > &emsp;&emsp;&emsp;&emsp;NumPy简明教程&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202103/310001">blog/202103/310001</a>）&emsp;&emsp;（2021/03/31）
