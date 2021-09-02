@@ -106,6 +106,8 @@ title: 主页
 
 ## 最新动态
 
+> 【笔记更新】&emsp;&emsp;AcWing算法基础课（程序设计算法）&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note">www.dywan.xyz/note</a>）&emsp;&emsp;（2021/08/30）
+> 
 > 【博客更新】&emsp;&emsp;pandas简明教程&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202104/030001">blog/202104/030001</a>）&emsp;&emsp;（2021/04/03）
 > 
 > 【博客更新】&emsp;&emsp;Matplotlib简明教程&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202104/010001">blog/202104/010001</a>）&emsp;&emsp;（2021/04/01）
@@ -117,8 +119,6 @@ title: 主页
 > 【博客更新】&emsp;&emsp;Tmux使用指南&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202103/120002">blog/202103/120002</a>）&emsp;&emsp;（2021/03/12）
 > 
 > 【博客更新】&emsp;&emsp;程序设计算法必备常识&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202103/120001">blog/202103/120001</a>）&emsp;&emsp;（2021/03/12）
-> 
-> 【笔记更新】&emsp;&emsp;更新内容更新内容更新内容更新内容更新内容。&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note">www.dywan.xyz/note</a>）&emsp;&emsp;（2021/02/24）
 
 ---
 
