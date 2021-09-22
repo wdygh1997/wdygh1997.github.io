@@ -106,7 +106,13 @@ title: 主页
 
 ## 最新动态
 
+> 【博客更新】&emsp;&emsp;《深度学习推荐系统》阅读笔记&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202109/090001">blog/202109/090001</a>）&emsp;&emsp;（2021/09/09）
+> 
+> 【博客更新】&emsp;&emsp;程序设计算法常用C/C++标准库&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202109/020001">blog/202109/020001</a>）&emsp;&emsp;（2021/09/02）
+> 
 > 【笔记更新】&emsp;&emsp;AcWing算法基础课（程序设计算法）&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note">www.dywan.xyz/note</a>）&emsp;&emsp;（2021/08/30）
+> 
+> 【博客更新】&emsp;&emsp;个人网站搭建实录&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202107/310001">blog/202107/310001</a>）&emsp;&emsp;（2021/07/31）
 > 
 > 【博客更新】&emsp;&emsp;pandas简明教程&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202104/030001">blog/202104/030001</a>）&emsp;&emsp;（2021/04/03）
 > 
