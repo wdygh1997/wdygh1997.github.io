@@ -6,7 +6,9 @@ title: 博客
 
 <script type="text/javascript" src="/include/head.js"></script>
 
-## 归档文章
+## 系列文章索引
+
+## 时序归档文章
 
 > &emsp;&emsp;《深度学习推荐系统》阅读笔记&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202109/090001">blog/202109/090001</a>）&emsp;&emsp;（2021/09/09）
 > 
