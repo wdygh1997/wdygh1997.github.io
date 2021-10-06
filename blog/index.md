@@ -8,9 +8,11 @@ title: 博客
 
 ## 系列文章索引
 
-## 时序归档文章
+## 文章时序归档
 
-> &emsp;&emsp;《深度学习推荐系统》阅读笔记&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202109/090001">blog/202109/090001</a>）&emsp;&emsp;（2021/09/09）
+> &emsp;&emsp;《深度学习推荐系统》（第7章）阅读笔记&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202109/300001">blog/202109/300001</a>）&emsp;&emsp;（2021/09/30）
+> 
+> &emsp;&emsp;《深度学习推荐系统》（第2章）阅读笔记&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202109/090001">blog/202109/090001</a>）&emsp;&emsp;（2021/09/09）
 > 
 > &emsp;&emsp;程序设计算法常用C/C++标准库&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202109/020001">blog/202109/020001</a>）&emsp;&emsp;（2021/09/02）
 > 
