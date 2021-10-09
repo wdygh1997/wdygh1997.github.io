@@ -8,9 +8,9 @@ title: 博客
 
 ## 系列文章索引
 
-> &emsp;&emsp;C++面试题集锦系列文章&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/090004">blog/202110/090004</a>）&emsp;&emsp;（2021/10/09汇总）
+> &emsp;&emsp;C++面试题集锦系列&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/090004">blog/202110/090004</a>）&emsp;&emsp;（2021/10/09汇总）
 > 
-> &emsp;&emsp;机器学习面试题集锦系列文章&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/090003">blog/202110/090003</a>）&emsp;&emsp;（2021/10/09汇总）
+> &emsp;&emsp;机器学习面试题集锦系列&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/090003">blog/202110/090003</a>）&emsp;&emsp;（2021/10/09汇总）
 
 ## 文章时序归档
 
