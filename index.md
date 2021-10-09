@@ -106,6 +106,10 @@ title: 主页
 
 ## 最新动态
 
+> 【博客更新】&emsp;&emsp;C++面试题集锦之标准模板库STL&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/090002">blog/202110/090002</a>）&emsp;&emsp;（2021/10/09）
+> 
+> 【博客更新】&emsp;&emsp;机器学习面试题集锦之集成学习&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/090001">blog/202110/090001</a>）&emsp;&emsp;（2021/10/09）
+> 
 > 【博客更新】&emsp;&emsp;《深度学习推荐系统》（第7章）阅读笔记&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202109/300001">blog/202109/300001</a>）&emsp;&emsp;（2021/09/30）
 > 
 > 【博客更新】&emsp;&emsp;《深度学习推荐系统》（第2章）阅读笔记&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202109/090001">blog/202109/090001</a>）&emsp;&emsp;（2021/09/09）
@@ -123,10 +127,6 @@ title: 主页
 > 【博客更新】&emsp;&emsp;NumPy简明教程&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202103/310001">blog/202103/310001</a>）&emsp;&emsp;（2021/03/31）
 > 
 > 【博客更新】&emsp;&emsp;Anaconda使用指南&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202103/130001">blog/202103/130001</a>）&emsp;&emsp;（2021/03/13）
-> 
-> 【博客更新】&emsp;&emsp;Tmux使用指南&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202103/120002">blog/202103/120002</a>）&emsp;&emsp;（2021/03/12）
-> 
-> 【博客更新】&emsp;&emsp;程序设计算法必备常识&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202103/120001">blog/202103/120001</a>）&emsp;&emsp;（2021/03/12）
 
 ---
 
