@@ -14,7 +14,7 @@ title: 博客
 
 ## 文章时序归档
 
-> &emsp;&emsp;字节跳动日常实习面试（AML部门机器学习解决方案岗位）&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/140001">blog/202110/140001</a>）&emsp;&emsp;（2021/10/14）
+> &emsp;&emsp;字节跳动面试（机器学习解决方案）&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/140001">blog/202110/140001</a>）&emsp;&emsp;（2021/10/14）
 > 
 > &emsp;&emsp;C++面试题集锦之标准模板库STL&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/090002">blog/202110/090002</a>）&emsp;&emsp;（2021/10/09）
 > 
