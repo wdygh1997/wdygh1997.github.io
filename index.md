@@ -106,7 +106,7 @@ title: 主页
 
 ## 最新动态
 
-> 【博客更新】&emsp;&emsp;字节跳动面试（机器学习解决方案）&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/140001">blog/202103/130001</a>）&emsp;&emsp;（2021/10/14）
+> 【博客更新】&emsp;&emsp;字节跳动面试（机器学习解决方案）&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/140001">blog/202110/140001</a>）&emsp;&emsp;（2021/10/14）
 > 
 > 【博客更新】&emsp;&emsp;C++面试题集锦之标准模板库STL&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/090002">blog/202110/090002</a>）&emsp;&emsp;（2021/10/09）
 > 
