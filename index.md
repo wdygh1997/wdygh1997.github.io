@@ -106,6 +106,10 @@ title: 主页
 
 ## 最新动态
 
+> 【博客更新】&emsp;&emsp;C++更改数据类型在排序中的顺序&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/190002">blog/202110/190002</a>）&emsp;&emsp;（2021/10/19）
+> 
+> 【博客更新】&emsp;&emsp;C++聚合类型的列表初始化&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/190001">blog/202110/190001</a>）&emsp;&emsp;（2021/10/19）
+> 
 > 【博客更新】&emsp;&emsp;字节跳动面试（推荐算法）&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/140001">blog/202110/140001</a>）&emsp;&emsp;（2021/10/14）
 > 
 > 【博客更新】&emsp;&emsp;C++面试题集锦之标准模板库STL&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/090002">blog/202110/090002</a>）&emsp;&emsp;（2021/10/09）
@@ -116,17 +120,13 @@ title: 主页
 > 
 > 【博客更新】&emsp;&emsp;《深度学习推荐系统》（第2章）阅读笔记&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202109/090001">blog/202109/090001</a>）&emsp;&emsp;（2021/09/09）
 > 
-> 【博客更新】&emsp;&emsp;程序设计算法常用C/C++标准库&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202109/020001">blog/202109/020001</a>）&emsp;&emsp;（2021/09/02）
+> 【博客更新】&emsp;&emsp;C++数据类型的存储位数与上下范围&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202109/020001">blog/202109/020001</a>）&emsp;&emsp;（2021/09/02）
 > 
 > 【笔记更新】&emsp;&emsp;AcWing算法基础课（程序设计算法）&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note">www.dywan.xyz/note</a>）&emsp;&emsp;（2021/08/30）
 > 
 > 【博客更新】&emsp;&emsp;个人网站搭建实录&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202107/310001">blog/202107/310001</a>）&emsp;&emsp;（2021/07/31）
 > 
 > 【博客更新】&emsp;&emsp;pandas简明教程&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202104/030001">blog/202104/030001</a>）&emsp;&emsp;（2021/04/03）
-> 
-> 【博客更新】&emsp;&emsp;Matplotlib简明教程&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202104/010001">blog/202104/010001</a>）&emsp;&emsp;（2021/04/01）
-> 
-> 【博客更新】&emsp;&emsp;NumPy简明教程&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202103/310001">blog/202103/310001</a>）&emsp;&emsp;（2021/03/31）
 
 ---
 
