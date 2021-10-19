@@ -6,20 +6,6 @@ title: 笔记
 
 <script type="text/javascript" src="/include/head.js"></script>
 
-## 编程语言语法
-
-> &emsp;&emsp;C++
-> 
-> &emsp;&emsp;&emsp;&emsp;语法
-> 
-> &emsp;&emsp;&emsp;&emsp;标准库
->
-> &emsp;&emsp;Python
-> 
-> &emsp;&emsp;&emsp;&emsp;语法
-> 
-> &emsp;&emsp;&emsp;&emsp;标准库
-
 ## 程序设计算法
 
 > &emsp;&emsp;算法思想
@@ -149,6 +135,14 @@ title: 笔记
 > &emsp;&emsp;深度学习
 > 
 > &emsp;&emsp;强化学习
+
+## 计算机专业课
+
+> &emsp;&emsp;计算机组成
+> 
+> &emsp;&emsp;操作系统
+> 
+> &emsp;&emsp;计算机网络
 
 ---
 
