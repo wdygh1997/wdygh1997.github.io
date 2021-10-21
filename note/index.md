@@ -40,7 +40,9 @@ title: 笔记
 >
 > &emsp;&emsp;动态规划
 > 
-> &emsp;&emsp;&emsp;&emsp;dp的原理与实现&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/070001">note/202108/070001</a>）
+> &emsp;&emsp;&emsp;&emsp;dp的原理&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/070001">note/202108/070001</a>）
+> 
+> &emsp;&emsp;&emsp;&emsp;dp的实现&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202110/210001">note/202110/210001</a>）
 > 
 > &emsp;&emsp;&emsp;&emsp;线性dp&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202108/210001">note/202108/210001</a>）
 > 
