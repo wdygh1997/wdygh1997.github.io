@@ -125,7 +125,11 @@ title: 笔记
 > &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;最大匹配&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/230002">note/202103/230002</a>）
 >
 > &emsp;&emsp;数学知识
->
+> 
+> &emsp;&emsp;&emsp;&emsp;素数&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202110/250001">note/202110/250001</a>）
+> 
+> &emsp;&emsp;&emsp;&emsp;约数&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202110/250002">note/202110/250002</a>）
+> 
 > &emsp;&emsp;&emsp;&emsp;大整数运算&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202102/170005">note/202102/170005</a>）
 > 
 > &emsp;&emsp;&emsp;&emsp;位运算&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202102/240001">note/202102/240001</a>）
