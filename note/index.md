@@ -126,6 +126,8 @@ title: 笔记
 >
 > &emsp;&emsp;数学知识
 > 
+> &emsp;&emsp;&emsp;&emsp;二进制划分&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202110/260001">note/202110/260001</a>）
+> 
 > &emsp;&emsp;&emsp;&emsp;素数&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202110/250001">note/202110/250001</a>）
 > 
 > &emsp;&emsp;&emsp;&emsp;约数&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202110/250002">note/202110/250002</a>）
