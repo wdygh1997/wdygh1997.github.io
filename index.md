@@ -106,6 +106,8 @@ title: 主页
 
 ## 最新动态
 
+> 【博客更新】&emsp;&emsp;快手面试（推荐算法）&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/270001">blog/202110/270001</a>）&emsp;&emsp;（2021/10/27）
+> 
 > 【博客更新】&emsp;&emsp;C++更改数据类型在排序中的顺序&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/190002">blog/202110/190002</a>）&emsp;&emsp;（2021/10/19）
 > 
 > 【博客更新】&emsp;&emsp;C++聚合类型的列表初始化&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/190001">blog/202110/190001</a>）&emsp;&emsp;（2021/10/19）
@@ -125,8 +127,6 @@ title: 主页
 > 【笔记更新】&emsp;&emsp;AcWing算法基础课（程序设计算法）&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note">www.dywan.xyz/note</a>）&emsp;&emsp;（2021/08/30）
 > 
 > 【博客更新】&emsp;&emsp;个人网站搭建实录&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202107/310001">blog/202107/310001</a>）&emsp;&emsp;（2021/07/31）
-> 
-> 【博客更新】&emsp;&emsp;pandas简明教程&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202104/030001">blog/202104/030001</a>）&emsp;&emsp;（2021/04/03）
 
 ---
 
