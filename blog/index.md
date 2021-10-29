@@ -14,13 +14,9 @@ title: 博客
 
 ## 文章时序归档
 
-> &emsp;&emsp;快手面试实录（推荐算法）&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/270001">blog/202110/270001</a>）&emsp;&emsp;（2021/10/27）
-> 
 > &emsp;&emsp;C++更改数据类型在排序中的顺序&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/190002">blog/202110/190002</a>）&emsp;&emsp;（2021/10/19）
 > 
 > &emsp;&emsp;C++聚合类型的列表初始化&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/190001">blog/202110/190001</a>）&emsp;&emsp;（2021/10/19）
-> 
-> &emsp;&emsp;字节跳动面试实录（推荐算法）&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/140001">blog/202110/140001</a>）&emsp;&emsp;（2021/10/14）
 > 
 > &emsp;&emsp;C++面试题集锦之标准模板库STL&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/090002">blog/202110/090002</a>）&emsp;&emsp;（2021/10/09）
 > 
