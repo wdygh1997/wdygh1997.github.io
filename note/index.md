@@ -12,6 +12,8 @@ title: 笔记
 >
 > &emsp;&emsp;&emsp;&emsp;枚举&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/150003">note/202103/150003</a>）
 >
+> &emsp;&emsp;&emsp;&emsp;递归&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202112/210001">note/202112/210001</a>）
+>
 > &emsp;&emsp;&emsp;&emsp;分治&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202103/290001">note/202103/290001</a>）
 > 
 > &emsp;&emsp;&emsp;&emsp;双指针&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/note/202102/220001">note/202102/220001</a>）
