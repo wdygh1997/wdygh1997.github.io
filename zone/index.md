@@ -8,6 +8,8 @@ title: 空间
 
 ## 面试实录系列
 
+> &emsp;&emsp;字节跳动实习二面实录（广告算法）&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/zone/202112/270001">blog/202112/270001</a>）&emsp;&emsp;（2021/12/27）
+> 
 > &emsp;&emsp;字节跳动实习一面实录（广告算法）&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/zone/202112/230001">blog/202112/230001</a>）&emsp;&emsp;（2021/12/23）
 > 
 > &emsp;&emsp;字节跳动实习二面实录（推荐算法）&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/zone/202112/150001">blog/202112/150001</a>）&emsp;&emsp;（2021/12/15）
