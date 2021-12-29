@@ -67,7 +67,7 @@ title: 主页
 > 	</head>
 > 	<body>
 > 		<tr>
-> 			<td rowspan="3" align="center"><img src="./pic/bytedance.jpeg" height="64"></td>
+> 			<td rowspan="3" align="center"><img src="./pic/ByteDance.jpeg" height="64"></td>
 > 			<td>广告算法岗位</td>
 > 		</tr>
 > 		<tr>
