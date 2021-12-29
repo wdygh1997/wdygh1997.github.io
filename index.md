@@ -58,7 +58,26 @@ title: 主页
 
 ## 工作经历
 
-> 暂无
+> <table>
+> 	<head>
+> 		<tr>
+> 			<th width="320">字节跳动</th>
+> 			<th width="640">广告部门</th>
+> 		</tr>
+> 	</head>
+> 	<body>
+> 		<tr>
+> 			<td rowspan="3" align="center"><img src="./pic/zjtd.png" height="64"></td>
+> 			<td>广告算法岗位</td>
+> 		</tr>
+> 		<tr>
+> 			<td>TikTok广告变现</td>
+> 		</tr>
+> 		<tr>
+> 			<td>实习（就职中）</td>
+> 		</tr>
+> 	</body>
+> </table>
 
 ## 教育经历
 
