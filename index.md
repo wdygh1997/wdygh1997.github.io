@@ -62,7 +62,7 @@ title: 主页
 > 	<head>
 > 		<tr>
 > 			<th width="320">字节跳动</th>
-> 			<th width="640">广告部门</th>
+> 			<th width="640">Data-商业化技术（广告）部门</th>
 > 		</tr>
 > 	</head>
 > 	<body>
@@ -71,10 +71,10 @@ title: 主页
 > 			<td>广告算法岗位</td>
 > 		</tr>
 > 		<tr>
-> 			<td>TikTok广告变现</td>
+> 			<td>非中国区商业化-行业变现（TikTok游戏广告）组</td>
 > 		</tr>
 > 		<tr>
-> 			<td>实习（就职中）</td>
+> 			<td>实习生（就职中）</td>
 > 		</tr>
 > 	</body>
 > </table>
