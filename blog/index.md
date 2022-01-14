@@ -14,6 +14,8 @@ title: 博客
 
 ## 文章时序归档
 
+> &emsp;&emsp;经典论文《XGBoost: A Scalable Tree Boosting System》阅读笔记&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202112/140001">blog/202112/140001</a>）&emsp;&emsp;（2021/12/14）
+> 
 > &emsp;&emsp;C++更改数据类型在排序中的顺序&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/190002">blog/202110/190002</a>）&emsp;&emsp;（2021/10/19）
 > 
 > &emsp;&emsp;C++聚合类型的列表初始化&emsp;&emsp;&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/190001">blog/202110/190001</a>）&emsp;&emsp;（2021/10/19）

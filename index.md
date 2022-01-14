@@ -71,7 +71,7 @@ title: 主页
 > 			<td>广告算法岗位</td>
 > 		</tr>
 > 		<tr>
-> 			<td>非中国区商业化-行业变现（TikTok游戏广告）组</td>
+> 			<td>非中国区商业化-行业变现（TikTok游戏行业广告）组</td>
 > 		</tr>
 > 		<tr>
 > 			<td>实习生（就职中）</td>
@@ -125,6 +125,8 @@ title: 主页
 
 ## 最新动态
 
+> 【博客更新】&emsp;&emsp;经典论文《XGBoost: A Scalable Tree Boosting System》阅读笔记&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202112/140001">blog/202112/140001</a>）&emsp;&emsp;（2021/12/14）
+> 
 > 【博客更新】&emsp;&emsp;C++更改数据类型在排序中的顺序&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/190002">blog/202110/190002</a>）&emsp;&emsp;（2021/10/19）
 > 
 > 【博客更新】&emsp;&emsp;C++聚合类型的列表初始化&emsp;&emsp;（链接：<a href="https://www.dywan.xyz/blog/202110/190001">blog/202110/190001</a>）&emsp;&emsp;（2021/10/19）
