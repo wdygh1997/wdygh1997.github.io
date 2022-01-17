@@ -1,2 +1,3 @@
 name: dywan's website
 favicon: ./favicon.ico
+markdown: kramdown
