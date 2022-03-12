@@ -128,6 +128,8 @@ title: 笔记
 >
 > &emsp;&emsp;数学知识
 > 
+> &emsp;&emsp;&emsp;&emsp;主数&emsp;&emsp;（<a href="https://www.dywan.xyz/note/202203/120001">note/202203/120001</a>）
+> 
 > &emsp;&emsp;&emsp;&emsp;二进制划分&emsp;&emsp;（<a href="https://www.dywan.xyz/note/202110/260001">note/202110/260001</a>）
 > 
 > &emsp;&emsp;&emsp;&emsp;素数&emsp;&emsp;（<a href="https://www.dywan.xyz/note/202110/250001">note/202110/250001</a>）
