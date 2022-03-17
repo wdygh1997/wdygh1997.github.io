@@ -14,6 +14,10 @@ title: 博客
 
 ## 文章时序归档
 
+> &emsp;&emsp;论文《DeepFM: A Factorization-Machine based Neural Network for CTR Prediction》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202112/180001">blog/202112/180001</a>）
+> 
+> &emsp;&emsp;论文《Wide & Deep Learning for Recommender Systems》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202112/170001">blog/202112/170001</a>）
+> 
 > &emsp;&emsp;论文《XGBoost: A Scalable Tree Boosting System》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202112/140001">blog/202112/140001</a>）
 > 
 > &emsp;&emsp;C++更改数据类型在排序中的顺序&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202110/190002">blog/202110/190002</a>）

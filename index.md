@@ -125,6 +125,10 @@ title: 主页
 
 ## 最新动态
 
+> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202112/180001">论文《DeepFM: A Factorization-Machine based Neural Network for CTR Prediction》阅读</a>&emsp;&emsp;（2021/12/18）
+> 
+> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202112/170001">论文《Wide & Deep Learning for Recommender Systems》阅读</a>&emsp;&emsp;（2021/12/17）
+> 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202112/140001">论文《XGBoost: A Scalable Tree Boosting System》阅读</a>&emsp;&emsp;（2021/12/14）
 > 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202110/190002">C++更改数据类型在排序中的顺序</a>&emsp;&emsp;（2021/10/19）
