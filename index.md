@@ -125,6 +125,10 @@ title: 主页
 
 ## 最新动态
 
+> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202203/180002">PyTorch损失函数详解之分类问题</a>&emsp;&emsp;（2022/03/18）
+> 
+> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202203/180001">PyTorch损失函数详解之回归问题</a>&emsp;&emsp;（2022/03/18）
+> 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202112/180001">论文《DeepFM: A Factorization-Machine based Neural Network for CTR Prediction》阅读</a>&emsp;&emsp;（2021/12/18）
 > 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202112/170001">论文《Wide & Deep Learning for Recommender Systems》阅读</a>&emsp;&emsp;（2021/12/17）
