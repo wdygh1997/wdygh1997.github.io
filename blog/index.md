@@ -14,9 +14,11 @@ title: 博客
 
 ## 文章时序归档
 
-> &emsp;&emsp;PyTorch损失函数详解之分类问题&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202203/180002">blog/202203/180002</a>）
+> &emsp;&emsp;PyTorch损失函数详解：度量学习&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202203/180003">blog/202203/180003</a>）
 > 
-> &emsp;&emsp;PyTorch损失函数详解之回归问题&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202203/180001">blog/202203/180001</a>）
+> &emsp;&emsp;PyTorch损失函数详解：概率模型与分类问题&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202203/180002">blog/202203/180002</a>）
+> 
+> &emsp;&emsp;PyTorch损失函数详解：概率模型与回归问题&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202203/180001">blog/202203/180001</a>）
 > 
 > &emsp;&emsp;论文《DeepFM: A Factorization-Machine based Neural Network for CTR Prediction》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202112/180001">blog/202112/180001</a>）
 > 
