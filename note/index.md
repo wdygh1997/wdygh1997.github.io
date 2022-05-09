@@ -94,6 +94,8 @@ title: 笔记
 > 
 > &emsp;&emsp;&emsp;&emsp;字典树&emsp;&emsp;（<a href="https://www.dywan.xyz/note/202103/060001">note/202103/060001</a>）
 > 
+> &emsp;&emsp;&emsp;&emsp;树状数组&emsp;&emsp;（<a href="https://www.dywan.xyz/note/202205/060001">note/202205/060001</a>）
+> 
 > &emsp;&emsp;图论算法
 >
 > &emsp;&emsp;&emsp;&emsp;最短路径
