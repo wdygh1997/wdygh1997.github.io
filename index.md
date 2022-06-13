@@ -125,6 +125,8 @@ title: 主页
 
 ## 最新动态
 
+> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202206/130001">论文《Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate》阅读</a>&emsp;&emsp;（2022/06/13）
+> 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202203/180003">PyTorch损失函数详解：度量学习</a>&emsp;&emsp;（2022/03/18）
 > 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202203/180002">PyTorch损失函数详解：概率模型与分类问题</a>&emsp;&emsp;（2022/03/18）
