@@ -14,7 +14,7 @@ title: 博客
 
 ## 文章时序归档
 
-> &emsp;&emsp;论文《Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202206/130001">blog/202206/130001</a>）
+> &emsp;&emsp;论文《ESMM: An Effective Approach for Estimating Post-Click Conversion Rate》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202206/130001">blog/202206/130001</a>）
 > 
 > &emsp;&emsp;PyTorch损失函数详解：度量学习&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202203/180003">blog/202203/180003</a>）
 > 
