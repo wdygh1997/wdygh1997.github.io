@@ -125,6 +125,8 @@ title: 主页
 
 ## 最新动态
 
+> 【笔记更新】&emsp;&emsp;<a href="https://www.dywan.xyz/note">LeetCode精选TOP面试题（程序设计算法）</a>&emsp;&emsp;（2022/06/15）
+> 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202206/130001">论文《ESMM: An Effective Approach for Estimating Post-Click Conversion Rate》阅读</a>&emsp;&emsp;（2022/06/13）
 > 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202203/180003">PyTorch损失函数详解：度量学习</a>&emsp;&emsp;（2022/03/18）
