@@ -14,6 +14,8 @@ title: 博客
 
 ## 文章时序归档
 
+> &emsp;&emsp;论文《Deep Interest Evolution Network for Click-Through Rate Prediction》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202206/270001">blog/202206/270001</a>）
+> 
 > &emsp;&emsp;论文《Product-based Neural Networks for User Response Prediction》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202206/230001">blog/202206/230001</a>）
 > 
 > &emsp;&emsp;论文《Deep Interest Network for Click-Through Rate Prediction》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202206/200001">blog/202206/200001</a>）
