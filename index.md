@@ -154,19 +154,11 @@ Decision Tree》阅读</a>&emsp;&emsp;（2021/12/14）
 > 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202112/140001">论文《XGBoost: A Scalable Tree Boosting System》阅读</a>&emsp;&emsp;（2021/12/14）
 > 
-> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202110/190002">C++更改数据类型在排序中的顺序</a>&emsp;&emsp;（2021/10/19）
-> 
-> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202110/190001">C++聚合类型的列表初始化</a>&emsp;&emsp;（2021/10/19）
-> 
-> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202110/090002">C++面试题集锦之标准模板库STL</a>&emsp;&emsp;（2021/10/09）
-> 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202110/090001">机器学习面试题集锦之集成学习</a>&emsp;&emsp;（2021/10/09）
 > 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202109/300001">《深度学习推荐系统》（第7章）阅读笔记</a>&emsp;&emsp;（2021/09/30）
 > 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202109/090001">《深度学习推荐系统》（第2章）阅读笔记</a>&emsp;&emsp;（2021/09/09）
-> 
-> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202109/020001">C++数据类型的存储位数与上下范围</a>&emsp;&emsp;（2021/09/02）
 > 
 > 【笔记更新】&emsp;&emsp;<a href="https://www.dywan.xyz/note">AcWing算法基础课（程序设计算法）</a>&emsp;&emsp;（2021/08/30）
 > 
