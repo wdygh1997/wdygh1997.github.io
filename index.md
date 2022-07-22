@@ -131,6 +131,10 @@ title: 主页
 > 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202206/200001">论文《Deep Interest Network for Click-Through Rate Prediction》阅读</a>&emsp;&emsp;（2022/06/20）
 > 
+> 【笔记更新】&emsp;&emsp;<a href="https://www.dywan.xyz/note">LeetCode腾讯精选练习50题（程序设计算法）</a>&emsp;&emsp;（2022/06/15）
+> 
+> 【笔记更新】&emsp;&emsp;<a href="https://www.dywan.xyz/note">LeetCode热题HOT100（程序设计算法）</a>&emsp;&emsp;（2022/06/15）
+> 
 > 【笔记更新】&emsp;&emsp;<a href="https://www.dywan.xyz/note">LeetCode精选TOP面试题（程序设计算法）</a>&emsp;&emsp;（2022/06/15）
 > 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202206/130001">论文《ESMM: An Effective Approach for Estimating Post-Click Conversion Rate》阅读</a>&emsp;&emsp;（2022/06/13）
