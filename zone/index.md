@@ -8,7 +8,7 @@ title: 空间
 
 ## 笔试面试实录
 
-> &emsp;&emsp;最右秋招提前批笔试实录（算法）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202207/260001">blog/202207/260001</a>）
+> &emsp;&emsp;最右秋招笔试实录（算法）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202207/260001">blog/202207/260001</a>）
 > 
 > &emsp;&emsp;蚂蚁金服实习一面实录（搜索算法）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202203/170001">blog/202203/170001</a>）
 > 
