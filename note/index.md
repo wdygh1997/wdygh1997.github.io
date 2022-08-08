@@ -54,6 +54,8 @@ title: 笔记
 > 
 > &emsp;&emsp;&emsp;&emsp;树型dp&emsp;&emsp;（<a href="https://www.dywan.xyz/note/202108/220001">note/202108/220001</a>）
 > 
+> &emsp;&emsp;&emsp;&emsp;数位dp&emsp;&emsp;（<a href="https://www.dywan.xyz/note/202208/080001">note/202208/080001</a>）
+> 
 > &emsp;&emsp;数据结构
 > 
 > &emsp;&emsp;&emsp;&emsp;链表
