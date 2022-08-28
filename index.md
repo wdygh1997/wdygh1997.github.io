@@ -125,6 +125,8 @@ title: 主页
 
 ## 最新动态
 
+> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202208/280001">《计算广告》（第一部分）阅读笔记</a>&emsp;&emsp;（2022/08/28）
+> 
 > 【笔记更新】&emsp;&emsp;<a href="https://www.dywan.xyz/note">LeetCode剑指Offer第2版（程序设计算法）</a>&emsp;&emsp;（2022/08/12）
 > 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202206/270001">论文《Deep Interest Evolution Network for Click-Through Rate Prediction》阅读</a>&emsp;&emsp;（2022/06/27）
@@ -163,8 +165,6 @@ Decision Tree》阅读</a>&emsp;&emsp;（2021/12/14）
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202109/090001">《深度学习推荐系统》（第2章）阅读笔记</a>&emsp;&emsp;（2021/09/09）
 > 
 > 【笔记更新】&emsp;&emsp;<a href="https://www.dywan.xyz/note">AcWing算法基础课（程序设计算法）</a>&emsp;&emsp;（2021/08/30）
-> 
-> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202107/310001">个人网站搭建实录</a>&emsp;&emsp;（2021/07/31）
 
 ---
 
