@@ -125,6 +125,8 @@ title: 主页
 
 ## 最新动态
 
+> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202208/280002">《计算广告》（第二部分）阅读笔记</a>&emsp;&emsp;（2022/08/28）
+> 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202208/280001">《计算广告》（第一部分）阅读笔记</a>&emsp;&emsp;（2022/08/28）
 > 
 > 【笔记更新】&emsp;&emsp;<a href="https://www.dywan.xyz/note">LeetCode剑指Offer第2版（程序设计算法）</a>&emsp;&emsp;（2022/08/12）
