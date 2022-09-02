@@ -53,6 +53,8 @@ Decision Tree》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202112/
 > 
 > &emsp;&emsp;《深度学习推荐系统》（第2章）阅读笔记&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202109/090001">blog/202109/090001</a>）
 > 
+> &emsp;&emsp;《深度学习推荐系统》（第1章）阅读笔记&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202109/080001">blog/202109/080001</a>）
+> 
 > &emsp;&emsp;C++数据类型的存储位数与上下范围&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202109/020001">blog/202109/020001</a>）
 > 
 > &emsp;&emsp;个人网站搭建实录&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202107/310001">blog/202107/310001</a>）
