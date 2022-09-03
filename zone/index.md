@@ -16,6 +16,8 @@ title: 空间
 > 
 > &emsp;&emsp;微软秋招笔试实录（Software Engineer）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202208/260001">blog/202208/260001</a>）
 > 
+> &emsp;&emsp;小红书秋招一面实录（机器学习）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202208/250001">blog/202208/250001</a>）
+> 
 > &emsp;&emsp;美团秋招笔试实录（搜索推荐算法）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202208/200001">blog/202208/200001</a>）
 > 
 > &emsp;&emsp;微软秋招笔试实录（Software Engineer）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202208/190002">blog/202208/190002</a>）
