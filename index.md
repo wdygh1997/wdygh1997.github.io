@@ -125,6 +125,8 @@ title: 主页
 
 ## 最新动态
 
+> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202209/040001">《深度学习推荐系统》（第3章）阅读笔记</a>&emsp;&emsp;（2022/09/04）
+> 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202208/280002">《计算广告》（第二部分）阅读笔记</a>&emsp;&emsp;（2022/08/28）
 > 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202208/280001">《计算广告》（第一部分）阅读笔记</a>&emsp;&emsp;（2022/08/28）
@@ -163,8 +165,6 @@ Decision Tree》阅读</a>&emsp;&emsp;（2021/12/14）
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202110/090001">机器学习面试题集锦之集成学习</a>&emsp;&emsp;（2021/10/09）
 > 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202109/300001">《深度学习推荐系统》（第7章）阅读笔记</a>&emsp;&emsp;（2021/09/30）
-> 
-> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202109/090001">《深度学习推荐系统》（第2章）阅读笔记</a>&emsp;&emsp;（2021/09/09）
 > 
 > 【笔记更新】&emsp;&emsp;<a href="https://www.dywan.xyz/note">AcWing算法基础课（程序设计算法）</a>&emsp;&emsp;（2021/08/30）
 
