@@ -10,6 +10,8 @@ title: 空间
 
 > &emsp;&emsp;百度秋招笔试实录（机器学习）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202209/130001">blog/202209/130001</a>）
 > 
+> &emsp;&emsp;字节秋招一面实录（算法）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202209/060001">blog/202209/060001</a>）
+> 
 > &emsp;&emsp;京东秋招一面实录（机器学习）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202209/050001">blog/202209/050001</a>）
 > 
 > &emsp;&emsp;网易秋招笔试实录（算法优化）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202209/040001">blog/202209/040001</a>）
