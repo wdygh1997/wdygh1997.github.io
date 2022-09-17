@@ -8,6 +8,12 @@ title: 空间
 
 ## 笔试面试实录
 
+> &emsp;&emsp;字节秋招一面实录（搜索算法）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202209/160001">blog/202209/160001</a>）
+> 
+> &emsp;&emsp;蚂蚁秋招笔试实录（算法工程）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202209/150002">blog/202209/150002</a>）
+> 
+> &emsp;&emsp;美团秋招一面实录（搜索推荐算法）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202209/150001">blog/202209/150001</a>）
+> 
 > &emsp;&emsp;小米秋招笔试实录（广告算法）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202209/140001">blog/202209/140001</a>）
 > 
 > &emsp;&emsp;百度秋招笔试实录（机器学习）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202209/130001">blog/202209/130001</a>）
