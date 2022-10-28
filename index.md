@@ -51,7 +51,7 @@ title: 主页
 >       <tr>
 >           <td width="320">LeetCode主页：<a href="https://leetcode-cn.com/u/wdylc1997">wdylc1997</a></td>
 >           <td width="320">哔哩哔哩主页：<a href="https://space.bilibili.com/177296496">177296496</a></td>
->           <td width="320">YouTube主页：<a href="https://www.youtube.com/channel/wdyyt1997">wdyyt1997</a></td>
+>           <td width="320">YouTube主页：<a href="https://www.youtube.com/channel/@wdyyt1997">wdyyt1997</a></td>
 >       </tr>
 >   </body>
 > </table>
