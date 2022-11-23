@@ -8,6 +8,8 @@ title: 空间
 
 ## 笔试面试实录
 
+> &emsp;&emsp;阿里秋招一面实录（机器学习）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202211/210001">blog/202211/210001</a>）
+> 
 > &emsp;&emsp;启元实验室秋招一面实录（研究/工程）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202210/140002">blog/202210/140002</a>）
 > 
 > &emsp;&emsp;华为秋招二面实录（机器学习）&emsp;&emsp;（<a href="https://www.dywan.xyz/zone/202210/140001">blog/202210/140001</a>）
