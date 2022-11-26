@@ -1,6 +1,15 @@
-document.writeln("<script type=\'text/javascript\' async src=\'https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\'></script>");
-document.writeln("<script type=\'text/x-mathjax-config\'>");
-document.writeln("    MathJax.Hub.Config({tex2jax: {inlineMath: [[\'$\',\'$\']]}});");
+document.writeln("<script type=\'text/javascript\' id=\'MathJax-script\' async");
+document.writeln("    src=\'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js\'>");
+document.writeln("</script>");
+document.writeln("<script>");
+document.writeln("MathJax = {");
+document.writeln("    tex: {");
+document.writeln("        inlineMath: [[\'$\', \'$\']]");
+document.writeln("    }");
+document.writeln("};");
+document.writeln("</script>");
+document.writeln("<script id=\'MathJax-script\' async");
+document.writeln("    src=\'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js\'>");
 document.writeln("</script>");
 document.writeln("");
 document.writeln("<table>");
