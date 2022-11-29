@@ -14,6 +14,8 @@ title: 博客
 
 ## 文章时序归档
 
+> &emsp;&emsp;论文《PredRNN: Recurrent Neural Networks for Predictive Learning using Spatiotemporal LSTMs》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202211/290001">blog/202211/290001</a>）
+> 
 > &emsp;&emsp;论文《ConvLSTM: A Machine Learning Approach for Precipitation Nowcasting》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202211/260001">blog/202211/260001</a>）
 > 
 > &emsp;&emsp;《深度学习推荐系统》（第3章）阅读笔记&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202209/040001">blog/202209/040001</a>）

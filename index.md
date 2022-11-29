@@ -125,6 +125,8 @@ title: 主页
 
 ## 最新动态
 
+> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202211/290001">论文《PredRNN: Recurrent Neural Networks for Predictive Learning using Spatiotemporal LSTMs》阅读</a>&emsp;&emsp;（2022/11/29）
+> 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202211/260001">论文《ConvLSTM: A Machine Learning Approach for Precipitation Nowcasting》阅读</a>&emsp;&emsp;（2022/11/26）
 > 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202209/040001">《深度学习推荐系统》（第3章）阅读笔记</a>&emsp;&emsp;（2022/09/04）
@@ -161,10 +163,6 @@ title: 主页
 > 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202112/140002">论文《LightGBM: A Highly Efficient Gradient Boosting
 Decision Tree》阅读</a>&emsp;&emsp;（2021/12/14）
-> 
-> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202112/140001">论文《XGBoost: A Scalable Tree Boosting System》阅读</a>&emsp;&emsp;（2021/12/14）
-> 
-> 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202110/090001">机器学习面试题集锦之集成学习</a>&emsp;&emsp;（2021/10/09）
 > 
 > 【笔记更新】&emsp;&emsp;<a href="https://www.dywan.xyz/note">AcWing算法基础课（程序设计算法）</a>&emsp;&emsp;（2021/08/30）
 
