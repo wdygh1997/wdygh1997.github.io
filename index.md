@@ -67,7 +67,7 @@ title: 主页
 > 	</head>
 > 	<body>
 > 		<tr>
-> 			<td rowspan="3" align="center"><img src="./pic/bankcomm.png" height="64"></td>
+> 			<td rowspan="3" align="center"><img src="./pic/bankcomm.png" height="32"></td>
 > 			<td>金融科技管理培训生</td>
 > 		</tr>
 > 		<tr>
@@ -88,7 +88,7 @@ title: 主页
 > 	</head>
 > 	<body>
 > 		<tr>
-> 			<td rowspan="3" align="center"><img src="./pic/bytedance.png" height="64"></td>
+> 			<td rowspan="3" align="center"><img src="./pic/bytedance.png" height="32"></td>
 > 			<td>广告算法岗位</td>
 > 		</tr>
 > 		<tr>
