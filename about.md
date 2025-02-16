@@ -29,6 +29,8 @@ title: 关于我
 >   </body>
 > </table>
 
+---
+
 ## 工作经历
 
 > <table>
@@ -73,6 +75,8 @@ title: 关于我
 > 	</body>
 > </table>
 
+---
+
 ## 教育经历
 
 > <table>
@@ -116,6 +120,8 @@ title: 关于我
 > 		</tr>
 > 	</body>
 > </table>
+
+---
 
 ## 联系方式
 
