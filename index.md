@@ -61,13 +61,34 @@ title: 主页
 > <table>
 > 	<head>
 > 		<tr>
+> 			<th width="320">交通银行</th>
+> 			<th width="640">总行-数据管理与应用部</th>
+> 		</tr>
+> 	</head>
+> 	<body>
+> 		<tr>
+> 			<td rowspan="3" align="center"><img src="./pic/bankcomm.png" height="64"></td>
+> 			<td>金融科技管理培训生</td>
+> 		</tr>
+> 		<tr>
+> 			<td>大数据整合部-模型应用</td>
+> 		</tr>
+> 		<tr>
+> 			<td>管培生（就职中）</td>
+> 		</tr>
+> 	</body>
+> </table>
+
+> <table>
+> 	<head>
+> 		<tr>
 > 			<th width="320">字节跳动</th>
 > 			<th width="640">Data-商业化技术</th>
 > 		</tr>
 > 	</head>
 > 	<body>
 > 		<tr>
-> 			<td rowspan="3" align="center"><img src="./pic/bytedance.jpeg" height="64"></td>
+> 			<td rowspan="3" align="center"><img src="./pic/bytedance.png" height="64"></td>
 > 			<td>广告算法岗位</td>
 > 		</tr>
 > 		<tr>
@@ -90,14 +111,14 @@ title: 主页
 > 	</head>
 > 	<body>
 > 		<tr>
-> 			<td rowspan="3" align="center"><img src="./pic/pku.jpg" width="64" height="64"></td>
+> 			<td rowspan="3" align="center"><img src="./pic/pku.png" width="64" height="64"></td>
 > 			<td>数据科学专业</td>
 > 		</tr>
 > 		<tr>
 > 			<td>大数据分析与应用技术国家工程实验室</td>
 > 		</tr>
 > 		<tr>
-> 			<td>硕士（就读中）</td>
+> 			<td>硕士（已毕业）</td>
 > 		</tr>
 > 	</body>
 > </table>
@@ -111,7 +132,7 @@ title: 主页
 > 	</head>
 > 	<body>
 > 		<tr>
-> 			<td rowspan="3" align="center"><img src="./pic/xdu.jpg" width="64" height="64"></td>
+> 			<td rowspan="3" align="center"><img src="./pic/xdu.png" width="64" height="64"></td>
 > 			<td>软件工程专业</td>
 > 		</tr>
 > 		<tr>
