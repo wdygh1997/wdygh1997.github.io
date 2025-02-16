@@ -6,25 +6,25 @@ title: 关于我
 
 <script type="text/javascript" src="/include/head.js"></script>
 
-## 简介
+## 个人简介
 
 > <table>
 >   <head>
 > 		<tr>
 > 			<th width="320">萬艼芋</th>
-> 			<th width="640">用以记录我的所思所想！</th>
+> 			<th width="640">我对下列领域都有浓厚兴趣：</th>
 > 		</tr>
 > 	</head>
 >   <body>
 >       <tr>
 >           <td rowspan="3" align="center"><img src="./pic/icon.jpg" width="88" height="88"></td>
->           <td><a href="https://www.dywan.xyz/finance">金融&投资</a>：关于金融&投资的博客/笔记</td>
+>           <td>量化交易、期货投资、股票投资&emsp;&emsp;（详见：<a href="https://www.dywan.xyz/finance">金融&投资</a>）</td>
 >       </tr>
 >       <tr>
->           <td><a href="https://www.dywan.xyz/program">编程&算法</a>：关于编程&算法的博客/笔记</td>
+>           <td>C++/Python、机器学习、深度学习&emsp;&emsp;（详见：<a href="https://www.dywan.xyz/program">编程&算法</a>）</td>
 >       </tr>
 >       <tr>
->           <td><a href="https://www.dywan.xyz/journey">知&行</a>：我在阅读与旅行中的思考</td>
+>           <td>经济、科技、历史&emsp;&emsp;（详见：<a href="https://www.dywan.xyz/journey">知&行</a>）</td>
 >       </tr>
 >   </body>
 > </table>

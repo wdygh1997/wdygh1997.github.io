@@ -6,6 +6,29 @@ title: 首页
 
 <script type="text/javascript" src="/include/head.js"></script>
 
+## 关于网站
+
+> <table>
+>   <head>
+> 		<tr>
+> 			<th width="320">萬艼芋</th>
+> 			<th width="640">用以记录我的所思所想！</th>
+> 		</tr>
+> 	</head>
+>   <body>
+>       <tr>
+>           <td rowspan="3" align="center"><img src="./pic/icon.jpg" width="88" height="88"></td>
+>           <td><a href="https://www.dywan.xyz/finance">金融&投资</a>：关于金融&投资的博客/笔记</td>
+>       </tr>
+>       <tr>
+>           <td><a href="https://www.dywan.xyz/program">编程&算法</a>：关于编程&算法的博客/笔记</td>
+>       </tr>
+>       <tr>
+>           <td><a href="https://www.dywan.xyz/journey">知&行</a>：我在阅读与旅行中的思考</td>
+>       </tr>
+>   </body>
+> </table>
+
 ## 最新动态
 
 > 【博客更新】&emsp;&emsp;<a href="https://www.dywan.xyz/blog/202211/290001">论文《PredRNN: RNNs for Predictive Learning using Spatiotemporal LSTMs》阅读</a>&emsp;&emsp;（2022/11/29）
