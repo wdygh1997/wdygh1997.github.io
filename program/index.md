@@ -8,14 +8,14 @@ title: 编程&算法
 
 ## 博客
 
-### 系列文章索引
-
+> ### 系列文章索引
+>
 > &emsp;&emsp;C++面试题集锦系列&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202110/090004">blog/202110/090004</a>）
 > 
 > &emsp;&emsp;机器学习面试题集锦系列&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202110/090003">blog/202110/090003</a>）
-
-### 文章时序归档
-
+>
+> ### 文章时序归档
+>
 > &emsp;&emsp;论文《PredRNN: RNNs for Predictive Learning using Spatiotemporal LSTMs》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202211/290001">blog/202211/290001</a>）
 > 
 > &emsp;&emsp;论文《ConvLSTM: A Machine Learning Approach for Precipitation Nowcasting》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202211/260001">blog/202211/260001</a>）
@@ -79,12 +79,10 @@ Decision Tree》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202112/
 > 
 > &emsp;&emsp;程序设计算法必备常识&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202103/120001">blog/202103/120001</a>）
 
----
-
 ## 笔记
 
-### 程序设计算法
-
+> ### 程序设计算法
+>
 > &emsp;&emsp;算法思想
 >
 > &emsp;&emsp;&emsp;&emsp;枚举&emsp;&emsp;（<a href="https://www.dywan.xyz/note/202103/150003">note/202103/150003</a>）
@@ -222,17 +220,17 @@ Decision Tree》阅读&emsp;&emsp;（<a href="https://www.dywan.xyz/blog/202112/
 > &emsp;&emsp;&emsp;&emsp;大整数运算&emsp;&emsp;（<a href="https://www.dywan.xyz/note/202102/170005">note/202102/170005</a>）
 > 
 > &emsp;&emsp;&emsp;&emsp;位运算&emsp;&emsp;（<a href="https://www.dywan.xyz/note/202102/240001">note/202102/240001</a>）
-
-### 机器学习算法
-
+>
+> ### 机器学习算法
+>
 > &emsp;&emsp;机器学习
 >
 > &emsp;&emsp;深度学习
 > 
 > &emsp;&emsp;强化学习
-
-### 计算机专业课
-
+>
+> ### 计算机专业课
+>
 > &emsp;&emsp;计算机组成
 > 
 > &emsp;&emsp;操作系统
