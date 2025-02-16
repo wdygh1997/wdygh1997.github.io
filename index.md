@@ -11,7 +11,7 @@ title: 主页
 > <table>
 >   <head>
 > 		<tr>
-> 			<th width="320">万鼎煜/萬艼芋</th>
+> 			<th width="320">萬艼芋</th>
 > 			<th width="640">欢迎访问我的技术博客和编程笔记！</th>
 > 		</tr>
 > 	</head>
@@ -67,7 +67,7 @@ title: 主页
 > 	</head>
 > 	<body>
 > 		<tr>
-> 			<td rowspan="3" align="center"><img src="./pic/bankcomm.png" height="40"></td>
+> 			<td rowspan="3" align="center"><img src="./pic/bankcomm.png" height="36"></td>
 > 			<td>金融科技管理培训生</td>
 > 		</tr>
 > 		<tr>
