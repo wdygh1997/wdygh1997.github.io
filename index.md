@@ -24,7 +24,7 @@ title: 首页
 >           <td><a href="https://www.dywan.xyz/program">编程&算法</a>：关于编程&算法的博客/笔记</td>
 >       </tr>
 >       <tr>
->           <td><a href="https://www.dywan.xyz/journey">知&行</a>：我在阅读与旅行中的思考</td>
+>           <td><a href="https://www.dywan.xyz/journey">知&行</a>：我在生活、阅读、旅行中的思考</td>
 >       </tr>
 >   </body>
 > </table>
