@@ -67,7 +67,7 @@ title: 主页
 > 	</head>
 > 	<body>
 > 		<tr>
-> 			<td rowspan="3" align="center"><img src="./pic/bankcomm.png" height="32"></td>
+> 			<td rowspan="3" align="center"><img src="./pic/bankcomm.png" height="56"></td>
 > 			<td>金融科技管理培训生</td>
 > 		</tr>
 > 		<tr>
@@ -88,7 +88,7 @@ title: 主页
 > 	</head>
 > 	<body>
 > 		<tr>
-> 			<td rowspan="3" align="center"><img src="./pic/bytedance.png" height="32"></td>
+> 			<td rowspan="3" align="center"><img src="./pic/bytedance.png" height="40"></td>
 > 			<td>广告算法岗位</td>
 > 		</tr>
 > 		<tr>
@@ -111,7 +111,7 @@ title: 主页
 > 	</head>
 > 	<body>
 > 		<tr>
-> 			<td rowspan="3" align="center"><img src="./pic/pku.png" width="64" height="64"></td>
+> 			<td rowspan="3" align="center"><img src="./pic/pku.png" width="72" height="72"></td>
 > 			<td>数据科学专业</td>
 > 		</tr>
 > 		<tr>
@@ -132,7 +132,7 @@ title: 主页
 > 	</head>
 > 	<body>
 > 		<tr>
-> 			<td rowspan="3" align="center"><img src="./pic/xdu.png" width="64" height="64"></td>
+> 			<td rowspan="3" align="center"><img src="./pic/xdu.png" width="72" height="72"></td>
 > 			<td>软件工程专业</td>
 > 		</tr>
 > 		<tr>
