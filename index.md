@@ -17,7 +17,7 @@ title: 主页
 > 	</head>
 >   <body>
 >       <tr>
->           <td rowspan="3" align="center"><img src="./pic/icon.jpg" width="96" height="96"></td>
+>           <td rowspan="3" align="center"><img src="./pic/icon.jpg" width="88" height="88"></td>
 >           <td>技术博客首页：<a href="https://www.dywan.xyz/blog">www.dywan.xyz/blog</a></td>
 >       </tr>
 >       <tr>
