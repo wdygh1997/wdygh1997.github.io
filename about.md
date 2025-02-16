@@ -6,7 +6,7 @@ title: 关于我
 
 <script type="text/javascript" src="/include/head.js"></script>
 
-## 个人简介
+## 简介
 
 > <table>
 >   <head>
@@ -18,13 +18,13 @@ title: 关于我
 >   <body>
 >       <tr>
 >           <td rowspan="3" align="center"><img src="./pic/icon.jpg" width="88" height="88"></td>
->           <td><a href="https://www.dywan.xyz/blog">金融&投资</a>：关于金融&投资的博客/笔记</td>
+>           <td><a href="https://www.dywan.xyz/finance">金融&投资</a>：关于金融&投资的博客/笔记</td>
 >       </tr>
 >       <tr>
->           <td><a href="https://www.dywan.xyz/note">编程&算法</a>：关于编程&算法的博客/笔记</td>
+>           <td><a href="https://www.dywan.xyz/program">编程&算法</a>：关于编程&算法的博客/笔记</td>
 >       </tr>
 >       <tr>
->           <td><a href="https://github.com/wdygh1997">知&行</a>：我在阅读与旅行中的思考</td>
+>           <td><a href="https://www.dywan.xyz/journey">知&行</a>：我在阅读与旅行中的思考</td>
 >       </tr>
 >   </body>
 > </table>
@@ -127,8 +127,8 @@ title: 关于我
 > 	</head>
 >   <body>
 >       <tr>
->           <td width="320">北大邮箱：dywan@stu.pku.edu.cn</td>
->           <td width="320">西电邮箱：dywan@stu.xidian.edu.cn</td>
+>           <td width="320">PKU邮箱：dywan@stu.pku.edu.cn</td>
+>           <td width="320">XDU邮箱：dywan@stu.xidian.edu.cn</td>
 >           <td width="320">网易邮箱：wandingyuyemail@163.com</td>
 >       </tr>
 >       <tr>
