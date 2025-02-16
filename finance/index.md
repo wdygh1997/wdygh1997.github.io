@@ -1,8 +1,8 @@
 ---
-title: 博客
+title: 金融&投资
 ---
 
-# 欢迎访问我的技术博客
+# 关于金融&投资的博客/笔记
 
 <script type="text/javascript" src="/include/head.js"></script>
 

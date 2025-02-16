@@ -1,8 +1,8 @@
 ---
-title: 笔记
+title: 编程&算法
 ---
 
-# 欢迎访问我的编程笔记
+# 关于编程&算法的博客/笔记
 
 <script type="text/javascript" src="/include/head.js"></script>
 
