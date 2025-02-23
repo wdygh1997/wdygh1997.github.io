@@ -8,6 +8,8 @@ title: 金融&投资
 
 ## 博客
 
+> &emsp;&emsp;期货CTA策略分类介绍&emsp;&emsp;（<a href="https://www.dywan.xyz/finance/blog/202502/230001">blog/202502/230001</a>）
+
 ---
 
 ## 笔记
