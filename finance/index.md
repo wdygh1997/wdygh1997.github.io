@@ -16,6 +16,8 @@ title: 金融&投资
 
 ## 笔记
 
+> &emsp;&emsp;《2022因子日历》阅读笔记&emsp;&emsp;（<a href="https://www.dywan.xyz/finance/blog/202504/070001">blog/202504/070001</a>）
+
 ---
 
 <script type="text/javascript" src="/include/tail.js"></script>

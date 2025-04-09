@@ -18,10 +18,10 @@ title: 首页
 >   <body>
 >       <tr>
 >           <td rowspan="3" align="center"><img src="./pic/icon.jpg" width="88" height="88"></td>
->           <td><a href="https://www.dywan.xyz/finance">金融&投资</a>：关于金融&投资的博客/笔记</td>
+>           <td><a href="https://www.dywan.xyz/program">编程&算法</a>：关于编程&算法的博客/笔记</td>
 >       </tr>
 >       <tr>
->           <td><a href="https://www.dywan.xyz/program">编程&算法</a>：关于编程&算法的博客/笔记</td>
+>           <td><a href="https://www.dywan.xyz/finance">金融&投资</a>：关于金融&投资的博客/笔记</td>
 >       </tr>
 >       <tr>
 >           <td><a href="https://www.dywan.xyz/journey">知&行</a>：我在生活、阅读、旅行中的思考</td>
