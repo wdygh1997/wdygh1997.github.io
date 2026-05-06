@@ -17,7 +17,7 @@ title: 关于我
 > 	</head>
 >   <body>
 >       <tr>
->           <td rowspan="3" align="center"><img src="./pic/photo.jpg" width="88" height="88"></td>
+>           <td rowspan="3" align="center"><img src="./pic/photo.jpg" width="92" height="92"></td>
 >           <td>C++/Python、机器学习、深度学习&emsp;&emsp;（移步：<a href="https://www.dywan.xyz/program">编程&算法</a>）</td>
 >       </tr>
 >       <tr>

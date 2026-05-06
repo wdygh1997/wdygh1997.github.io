@@ -17,7 +17,7 @@ title: 首页
 > 	</head>
 >   <body>
 >       <tr>
->           <td rowspan="3" align="center"><img src="./pic/photo.jpg" width="88" height="88"></td>
+>           <td rowspan="3" align="center"><img src="./pic/photo.jpg" width="92" height="92"></td>
 >           <td><a href="https://www.dywan.xyz/program">编程&算法</a>：关于编程&算法的博客/笔记</td>
 >       </tr>
 >       <tr>
